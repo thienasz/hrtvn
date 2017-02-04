@@ -1,0 +1,46 @@
+.note-message {
+	text-align: center;
+	font-size: 16px;
+	color: green;
+	font-weight: bold;
+}
+#save-product-note {
+	float: right;
+}
+.wrap .add-new-h2 {
+	cursor: pointer;
+}
+.note-content {
+	display: inline-block;
+	width: 100%; 
+	margin-top:10px; 
+	background-color: #fff;
+	padding: 20px;
+}
+.note-content .draggable{
+    background-color: transparent!important;
+    border: none;
+}
+.find-product {
+	padding: 5px;
+	width: 230px;
+}
+.note-menu {
+	position: absolute;
+	top: 25px;
+	left: 25px;
+	width: 250px;
+	text-align: center;
+	background: #f1f1f1;
+	padding: 10px;
+	z-index: 999;
+}
+.submitdelete {
+	text-decoration: none;
+	color: red;
+}
+.product-name {
+	font-size: 14px;
+	font-weight: bold;
+	margin: 5px 0;
+}

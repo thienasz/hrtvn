@@ -1,0 +1,2402 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Look\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Aug 25 2015 10:24:03 GMT+0700 (ICT)\n"
+"POT-Revision-Date: Tue Aug 16 2016 17:45:48 GMT+0700 (ICT)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Text in echo
+#: ../404.php:16
+msgid "Sorry! Page you are looking can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:17
+msgid "Go back to the "
+msgstr ""
+
+#: ../404.php:17
+msgid "homepage"
+msgstr ""
+
+#. Text in echo
+#: ../author-bio.php:2
+msgid "Published by"
+msgstr ""
+
+#. Text in function
+#: ../author-bio.php:15
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#. Text in echo
+#: ../comments.php:31
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:40
+msgid "Your name*"
+msgstr ""
+
+#: ../comments.php:43
+msgid "Your email*"
+msgstr ""
+
+#: ../comments.php:48
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Leave your comment"
+msgstr ""
+
+#: ../comments.php:60
+msgid "Your comment"
+msgstr ""
+
+#: ../comments.php:63
+msgid "Post comment"
+msgstr ""
+
+#. Text in echo
+#: ../content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in function
+#: ../content-none.php:21
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. Text in echo
+#: ../content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. Text in echo
+#: ../content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../includes/class-color-swatch.php:177
+msgid "Product Swatch Gallery"
+msgstr ""
+
+#: ../includes/class-color-swatch.php:280 ../includes/class-color-swatch.php:292
+msgid "Delete image"
+msgstr ""
+
+#: ../includes/class-color-swatch.php:280 ../includes/class-color-swatch.php:292
+msgid "Delete"
+msgstr ""
+
+#: ../includes/class-color-swatch.php:292
+msgid "Add Images to Product Gallery"
+msgstr ""
+
+#: ../includes/class-color-swatch.php:292
+msgid "Add to gallery"
+msgstr ""
+
+#: ../includes/class-color-swatch.php:292
+msgid "Add product gallery images"
+msgstr ""
+
+#. Text in echo
+#: ../includes/class-color-swatch.php:315 ../includes/class-color-swatch.php:389
+msgid "Thumbnail"
+msgstr ""
+
+#. Text in echo
+#: ../includes/class-color-swatch.php:320 ../includes/class-color-swatch.php:395
+msgid "Upload/Add image"
+msgstr ""
+
+#. Text in echo
+#: ../includes/class-color-swatch.php:321 ../includes/class-color-swatch.php:396
+msgid "Remove image"
+msgstr ""
+
+#. Text in echo
+#: ../includes/class-color-swatch.php:346 ../includes/class-color-swatch.php:421
+msgid "Choose an image"
+msgstr ""
+
+#. Text in echo
+#: ../includes/class-color-swatch.php:348 ../includes/class-color-swatch.php:423
+msgid "Use image"
+msgstr ""
+
+#. Text in echo
+#: ../includes/class-page-title.php:33
+msgid "Page Option"
+msgstr ""
+
+#. Text in echo
+#: ../includes/class-page-title.php:37
+msgid "Page Title Style"
+msgstr ""
+
+#. Text in echo
+#: ../includes/class-page-title.php:51
+msgid "Show Title"
+msgstr ""
+
+#. Text in echo
+#: ../includes/class-page-title.php:62
+msgid "Page Caption"
+msgstr ""
+
+#. Text in echo
+#: ../includes/class-page-title.php:71
+msgid "Header Background Image"
+msgstr ""
+
+#. Text in echo
+#: ../includes/class-page-title.php:75 ../modules/options/includes/class-options-
+#: media-uploader.php:66 ../modules/options/includes/class-options-media-uploader.
+#: php:119
+msgid "Upload"
+msgstr ""
+
+#: ../includes/class-page-title.php:90
+msgid "Product Size Guide"
+msgstr ""
+
+#: ../includes/class-page-title.php:93
+msgid "Page Tile Options"
+msgstr ""
+
+#. Text in function
+#: ../includes/helper.php:101
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../includes/helper.php:134
+msgid "First"
+msgstr ""
+
+#: ../includes/helper.php:138
+msgid "Prev"
+msgstr ""
+
+#: ../includes/helper.php:149
+msgid "Next"
+msgstr ""
+
+#: ../includes/helper.php:150
+msgid "Last"
+msgstr ""
+
+#. Text in function
+#: ../includes/helper.php:151 ../includes/helper.php:382 ../views/fix/archive.php:
+#: 47 ../views/fix/category.php:47 ../views/fix/index.php:57 ../views/fix/page.
+#: php:22 ../views/fix/search.php:49 ../views/full/archive.php:47 ..
+#: /views/full/category.php:47 ../views/full/index.php:57 ../views/full/page.php:
+#: 22 ../views/full/search.php:49 ../views/home-left/archive.php:47 ../views/home-
+#: left/category.php:47 ../views/home-left/index.php:57 ../views/home-left/page.
+#: php:23 ../views/home-left/search.php:49
+msgid "Page"
+msgstr ""
+
+#: ../includes/helper.php:151
+msgid "of"
+msgstr ""
+
+#. Text in function
+#: ../includes/helper.php:176
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: ../includes/helper.php:532
+msgid "Older Comments <span>&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: ../includes/helper.php:536
+msgid "<span>&larr;</span> Newer Comments"
+msgstr ""
+
+#: ../includes/look_setup.php:35 ../includes/look_setup.php:54
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#. Text in function
+#: ../includes/look_setup.php:72
+msgid "Share this post on Facebook"
+msgstr ""
+
+#. Text in function
+#: ../includes/look_setup.php:75
+msgid "Share this post on Twitter"
+msgstr ""
+
+#. Text in function
+#: ../includes/look_setup.php:78
+msgid "Share this post on Google Plus"
+msgstr ""
+
+#. Text in function
+#: ../includes/look_setup.php:81
+msgid "Share this post on Pinterest"
+msgstr ""
+
+#. Text in function
+#: ../includes/look_setup.php:84
+msgid "Share this post on Tumbr"
+msgstr ""
+
+#: ../includes/look_setup.php:114
+msgid " No Comment "
+msgstr ""
+
+#: ../includes/look_setup.php:114
+msgid "1 Comment"
+msgstr ""
+
+#: ../includes/look_setup.php:135
+#, php-format
+msgid ""
+"<div class=\"comment-meta\"><div class=\"comment-author\"><span "
+"class=\"author\">%1s</span> <span class=\"says\">says:</span></div><div "
+"class=\"comment-time\">%2$s at %3$s\n"
+"            </div></div>"
+msgstr ""
+
+#. Text in echo
+#: ../includes/look_setup.php:140
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/look_setup.php:148 ../woocommerce/myaccount/my-address.php:56
+msgid "Edit"
+msgstr ""
+
+#: ../includes/menu.php:7
+msgid "Header Main Menu"
+msgstr ""
+
+#: ../includes/menu.php:8
+msgid "Main Menu Left"
+msgstr ""
+
+#: ../includes/menu.php:9
+msgid "Main Menu Right"
+msgstr ""
+
+#: ../includes/sidebar.php:4
+msgid "Look Home Widget"
+msgstr ""
+
+#: ../includes/sidebar.php:6
+msgid "Home Widget Area"
+msgstr ""
+
+#: ../includes/sidebar.php:13 ../includes/sidebar.php:15
+msgid "Home Category Link Widget"
+msgstr ""
+
+#: ../includes/sidebar.php:22
+msgid "Footer Sidebar"
+msgstr ""
+
+#: ../includes/sidebar.php:24
+msgid "Footer sidebar"
+msgstr ""
+
+#: ../includes/sidebar.php:31
+msgid "Blog Top Sidebar"
+msgstr ""
+
+#: ../includes/sidebar.php:33
+msgid "Blog Top sidebar"
+msgstr ""
+
+#: ../includes/sidebar.php:40 ../includes/sidebar.php:42
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: ../includes/sidebar.php:49 ../includes/sidebar.php:51
+msgid "Shop Left Sidebar"
+msgstr ""
+
+#: ../includes/sidebar.php:58 ../includes/sidebar.php:60
+msgid "Shop Right Sidebar"
+msgstr ""
+
+#: ../includes/sidebar.php:67 ../includes/sidebar.php:69
+msgid "Product Page Left Sidebar"
+msgstr ""
+
+#: ../includes/sidebar.php:76 ../includes/sidebar.php:78
+msgid "Product Page Right Sidebar"
+msgstr ""
+
+#. Text in function
+#: ../includes/widget/home_category_link.php:12
+msgid "Look - Category Link Widget"
+msgstr ""
+
+#. Text in function
+#: ../includes/widget/home_category_link.php:15
+msgid "Category link Widget"
+msgstr ""
+
+#. Text in function
+#: ../includes/widget/home_category_link.php:38
+msgid "Widget Image"
+msgstr ""
+
+#. Text in echo
+#: ../includes/widget/home_category_link.php:62 ..
+#: /includes/widget/home_feature_product.php:56 ../includes/widget/link_block.php:
+#: 45
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: ../includes/widget/home_category_link.php:66
+msgid "Short Descriptions:"
+msgstr ""
+
+#. Text in echo
+#: ../includes/widget/home_category_link.php:70
+msgid "Shop URL:"
+msgstr ""
+
+#. Text in echo
+#: ../includes/widget/home_category_link.php:74
+msgid "Image:"
+msgstr ""
+
+#. Widget name will appear in UI
+#: ../includes/widget/home_feature_product.php:12
+msgid "Look - Products Widget"
+msgstr ""
+
+#: ../includes/widget/home_feature_product.php:15
+msgid "Look Products Widget"
+msgstr ""
+
+#. Text in function
+#: ../includes/widget/home_feature_product.php:34 ../includes/widget/link_block.
+#: php:36
+msgid "New title"
+msgstr ""
+
+#: ../includes/widget/home_feature_product.php:60 ../includes/widget/product_tab.
+#: php:134
+msgid "Type:"
+msgstr ""
+
+#: ../includes/widget/home_feature_product.php:62 ../includes/widget/product_tab.
+#: php:135
+msgid "Feature Products"
+msgstr ""
+
+#: ../includes/widget/home_feature_product.php:63 ../includes/widget/product_tab.
+#: php:136
+msgid "Best Seller Products"
+msgstr ""
+
+#: ../includes/widget/home_feature_product.php:64 ../includes/widget/product_tab.
+#: php:138
+msgid "New Arrivals Products"
+msgstr ""
+
+#: ../includes/widget/home_feature_product.php:65 ../includes/widget/product_tab.
+#: php:140
+msgid "On Sales Products"
+msgstr ""
+
+#: ../includes/widget/home_feature_product.php:66 ../includes/widget/product_tab.
+#: php:141
+msgid "Recent Products"
+msgstr ""
+
+#: ../includes/widget/home_feature_product.php:70 ../includes/widget/product_tab.
+#: php:144
+msgid "Order by"
+msgstr ""
+
+#: ../includes/widget/home_feature_product.php:72 ../includes/widget/product_tab.
+#: php:146 ../woocommerce/myaccount/my-orders.php:31 ../woocommerce/myaccount/my-
+#: orders.php:50
+msgid "Date"
+msgstr ""
+
+#: ../includes/widget/home_feature_product.php:73 ../includes/widget/product_tab.
+#: php:147 ../woocommerce/cart/cart.php:37 ../woocommerce/emails/admin-cancelled-
+#: order.php:33 ../woocommerce/emails/admin-new-order.php:38 ..
+#: /woocommerce/emails/customer-completed-order.php:38 ..
+#: /woocommerce/emails/customer-invoice.php:42 ../woocommerce/emails/customer-
+#: note.php:42 ../woocommerce/emails/customer-processing-order.php:38 ..
+#: /woocommerce/loop/orderby.php:129
+msgid "Price"
+msgstr ""
+
+#: ../includes/widget/home_feature_product.php:74 ../includes/widget/product_tab.
+#: php:148
+msgid "Random"
+msgstr ""
+
+#: ../includes/widget/home_feature_product.php:75 ../includes/widget/product_tab.
+#: php:149
+msgid "Sales"
+msgstr ""
+
+#: ../includes/widget/home_feature_product.php:79 ../includes/widget/product_tab.
+#: php:153 ../woocommerce/myaccount/my-orders.php:30
+msgid "Order"
+msgstr ""
+
+#. Text in echo
+#: ../includes/widget/home_feature_product.php:86 ../includes/widget/product_tab.
+#: php:160
+msgid "Limit:"
+msgstr ""
+
+#. Text in function
+#: ../includes/widget/link_block.php:12
+msgid "Look - Footer Menu Block Widget"
+msgstr ""
+
+#. Text in function
+#: ../includes/widget/link_block.php:15
+msgid "Footer Menu Block Widget"
+msgstr ""
+
+#. Text in echo
+#: ../includes/widget/link_block.php:49
+msgid "Menu:"
+msgstr ""
+
+#. Text in function
+#: ../includes/widget/link_block.php:51
+msgid "Choose menu"
+msgstr ""
+
+#. Widget name will appear in UI
+#: ../includes/widget/product_tab.php:12
+msgid "Look - Products Tab Widget"
+msgstr ""
+
+#: ../includes/widget/product_tab.php:15
+msgid "Look Products Tab Widget"
+msgstr ""
+
+#: ../includes/widget/product_tab.php:31
+msgid "Featured"
+msgstr ""
+
+#: ../includes/widget/product_tab.php:37
+msgid "Best Seller"
+msgstr ""
+
+#: ../includes/widget/product_tab.php:45 ../includes/widget/product_tab.php:50
+msgid "New arrivals"
+msgstr ""
+
+#: ../includes/widget/product_tab.php:57
+msgid "Recent Product"
+msgstr ""
+
+#: ../includes/widget/product_tab.php:63
+msgid "Sale"
+msgstr ""
+
+#: ../includes/woo_func.php:23
+msgid "Search products..."
+msgstr ""
+
+#. Text in echo
+#: ../includes/woo_func.php:24 ../views/fix/footer.php:21 ../views/fix/header.php:
+#: 35 ../views/fix/header.php:35 ../views/fix/header.php:99 ../views/fix/header.
+#: php:99 ../views/fix/header.php:163 ../views/fix/header.php:163 ..
+#: /views/fix/header.php:197 ../views/fix/header.php:197 ../views/fix/header.php:
+#: 258 ../views/fix/header.php:258 ../views/full/footer.php:21 ..
+#: /views/full/header.php:35 ../views/full/header.php:35 ../views/full/header.php:
+#: 99 ../views/full/header.php:99 ../views/full/header.php:162 ..
+#: /views/full/header.php:162 ../views/full/header.php:196 ../views/full/header.
+#: php:196 ../views/full/header.php:257 ../views/full/header.php:257 ..
+#: /views/home-left/footer.php:47 ../views/home-left/header.php:9
+msgid "Search"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../modules/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../modules/class-tgm-plugin-activation.php:347
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../modules/class-tgm-plugin-activation.php:352
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../modules/class-tgm-plugin-activation.php:357
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../modules/class-tgm-plugin-activation.php:362
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../modules/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../modules/class-tgm-plugin-activation.php:372
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../modules/class-tgm-plugin-activation.php:377
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../modules/class-tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../modules/class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../modules/class-tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../modules/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:399 ../modules/class-tgm-plugin-
+#: activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:400 ../modules/class-tgm-plugin-
+#: activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../modules/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:828 ../modules/class-tgm-plugin-
+#: activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:935 ../modules/class-tgm-plugin-
+#: activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:1116 ../modules/class-tgm-plugin-
+#: activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:1881
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2235
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2280
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../modules/class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../modules/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../modules/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../modules/class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2443 ../woocommerce/myaccount/my-
+#: orders.php:32 ../woocommerce/myaccount/my-orders.php:53
+msgid "Status"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2491
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2495
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3370 ../modules/class-tgm-plugin-
+#: activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3370 ../modules/class-tgm-plugin-
+#: activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../modules/import/parsers.php:33 ../modules/import/parsers.php:54
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../modules/import/parsers.php:34
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../modules/import/parsers.php:58 ../modules/import/parsers.php:63 ..
+#: /modules/import/parsers.php:253 ../modules/import/parsers.php:442
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#. Text in echo
+#: ../modules/import/view/import.php:27
+msgid "Choose layout: "
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:123 ../modules/import/wordpress-
+#: importer.php:132 ../modules/import/wordpress-importer.php:183 ..
+#: /modules/import/wordpress-importer.php:187 ../modules/import/wordpress-
+#: importer.php:196
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:124
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:167
+msgid "All done."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:167
+msgid "Have fun!"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:168
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:188
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:204
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:229
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:255
+msgid "Assign Authors"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:256
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as "
+"<code>admin</code>s entries."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:258
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:268
+msgid "Import Attachments"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:271
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:275
+msgid "Submit"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:288
+msgid "Import author:"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:299
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:302
+msgid "as a new user:"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:310
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:312
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:313
+msgid "- Select -"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:363
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:412
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:450
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:495 ../modules/import/wordpress-
+#: importer.php:621
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:517
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:538
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:593
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:739
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:746
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:809
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:822
+msgid "Invalid file type"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:866
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:872
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:879
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:884
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:890
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:988
+msgid "Import WordPress"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:1002
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:1003
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../modules/options/includes/class-options-framework-admin.php:65
+#, php-format
+msgid ""
+"Your current theme does not have support for the Options.  <a href=\"%1$s\" "
+"target=\"_blank\">Learn More</a> | <a href=\"%2$s\">Hide Notice</a>"
+msgstr ""
+
+#: ../modules/options/includes/class-options-framework-admin.php:120 ..
+#: /modules/options/includes/class-options-framework-admin.php:121
+msgid "Look Theme Options"
+msgstr ""
+
+#: ../modules/options/includes/class-options-framework-admin.php:234
+msgid "Save Options"
+msgstr ""
+
+#: ../modules/options/includes/class-options-framework-admin.php:235
+msgid "Restore Defaults"
+msgstr ""
+
+#: ../modules/options/includes/class-options-framework-admin.php:235
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../modules/options/includes/class-options-framework-admin.php:266
+msgid "Default options restored."
+msgstr ""
+
+#: ../modules/options/includes/class-options-framework-admin.php:320
+msgid "Options saved."
+msgstr ""
+
+#: ../modules/options/includes/class-options-media-uploader.php:63
+msgid "No file chosen"
+msgstr ""
+
+#: ../modules/options/includes/class-options-media-uploader.php:68 ..
+#: /modules/options/includes/class-options-media-uploader.php:120
+msgid "Remove"
+msgstr ""
+
+#: ../modules/options/includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: ../modules/options/includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr ""
+
+#: ../modules/options/includes/class-options-sanitization.php:361
+msgid "No Repeat"
+msgstr ""
+
+#: ../modules/options/includes/class-options-sanitization.php:362
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../modules/options/includes/class-options-sanitization.php:363
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../modules/options/includes/class-options-sanitization.php:364
+msgid "Repeat All"
+msgstr ""
+
+#: ../modules/options/includes/class-options-sanitization.php:378
+msgid "Top Left"
+msgstr ""
+
+#: ../modules/options/includes/class-options-sanitization.php:379
+msgid "Top Center"
+msgstr ""
+
+#: ../modules/options/includes/class-options-sanitization.php:380
+msgid "Top Right"
+msgstr ""
+
+#: ../modules/options/includes/class-options-sanitization.php:381
+msgid "Middle Left"
+msgstr ""
+
+#: ../modules/options/includes/class-options-sanitization.php:382
+msgid "Middle Center"
+msgstr ""
+
+#: ../modules/options/includes/class-options-sanitization.php:383
+msgid "Middle Right"
+msgstr ""
+
+#: ../modules/options/includes/class-options-sanitization.php:384
+msgid "Bottom Left"
+msgstr ""
+
+#: ../modules/options/includes/class-options-sanitization.php:385
+msgid "Bottom Center"
+msgstr ""
+
+#: ../modules/options/includes/class-options-sanitization.php:386
+msgid "Bottom Right"
+msgstr ""
+
+#: ../modules/options/includes/class-options-sanitization.php:400
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../modules/options/includes/class-options-sanitization.php:401
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../modules/options/includes/class-options-sanitization.php:480
+msgid "Normal"
+msgstr ""
+
+#: ../modules/options/includes/class-options-sanitization.php:481
+msgid "Italic"
+msgstr ""
+
+#: ../modules/options/includes/class-options-sanitization.php:482
+msgid "Bold"
+msgstr ""
+
+#: ../modules/options/includes/class-options-sanitization.php:483
+msgid "Bold Italic"
+msgstr ""
+
+#: ../modules/options/options.php:100
+msgid "General Settings"
+msgstr ""
+
+#: ../modules/options/options.php:104
+msgid "Layout"
+msgstr ""
+
+#: ../modules/options/options.php:118
+msgid "Sticky Menu"
+msgstr ""
+
+#: ../modules/options/options.php:119
+msgid "use for full and fix layout only"
+msgstr ""
+
+#: ../modules/options/options.php:125 ../modules/options/options.php:136 ..
+#: /modules/options/options.php:214
+msgid "No"
+msgstr ""
+
+#: ../modules/options/options.php:126 ../modules/options/options.php:137 ..
+#: /modules/options/options.php:215
+msgid "Yes"
+msgstr ""
+
+#: ../modules/options/options.php:131
+msgid "Header Layout 1"
+msgstr ""
+
+#: ../modules/options/options.php:132
+msgid "Header Layout 2"
+msgstr ""
+
+#: ../modules/options/options.php:133
+msgid "Header Layout 3"
+msgstr ""
+
+#: ../modules/options/options.php:140
+msgid "Header Layout"
+msgstr ""
+
+#: ../modules/options/options.php:141
+msgid "Run only on full layout or fix layout"
+msgstr ""
+
+#: ../modules/options/options.php:148
+msgid "Regular Logo"
+msgstr ""
+
+#: ../modules/options/options.php:152
+msgid "Retina Logo"
+msgstr ""
+
+#: ../modules/options/options.php:156
+msgid "Copyright Text"
+msgstr ""
+
+#: ../modules/options/options.php:158 ../views/fix/footer.php:46 ..
+#: /views/full/footer.php:46 ../views/home-left/footer.php:16 ../views/home-
+#: left/header.php:25
+msgid "The Look &copy;2015 - All Rights Reserved"
+msgstr ""
+
+#: ../modules/options/options.php:161
+msgid "Footer Layout"
+msgstr ""
+
+#: ../modules/options/options.php:163
+msgid "Display footer on left layout"
+msgstr ""
+
+#: ../modules/options/options.php:169
+msgid "Display Breadcrumbs "
+msgstr ""
+
+#: ../modules/options/options.php:176
+msgid "Header promo text"
+msgstr ""
+
+#: ../modules/options/options.php:178
+msgid "Free shipping for standard order over $75"
+msgstr ""
+
+#: ../modules/options/options.php:181
+msgid "Favicon Image"
+msgstr ""
+
+#: ../modules/options/options.php:187
+msgid "Lookbook Icon"
+msgstr ""
+
+#: ../modules/options/options.php:193
+msgid "Custom Css"
+msgstr ""
+
+#: ../modules/options/options.php:199
+msgid "None"
+msgstr ""
+
+#: ../modules/options/options.php:200
+msgid "Css only"
+msgstr ""
+
+#: ../modules/options/options.php:201
+msgid "Js only"
+msgstr ""
+
+#: ../modules/options/options.php:202
+msgid "Css and Js"
+msgstr ""
+
+#: ../modules/options/options.php:205
+msgid "Assets Minify"
+msgstr ""
+
+#: ../modules/options/options.php:206
+msgid "Minify javascript and style sheet file"
+msgstr ""
+
+#: ../modules/options/options.php:218
+msgid "Html Minify"
+msgstr ""
+
+#: ../modules/options/options.php:219
+msgid "Minify html output on front end"
+msgstr ""
+
+#: ../modules/options/options.php:229
+msgid "Woocommerce Settings"
+msgstr ""
+
+#: ../modules/options/options.php:233
+msgid "2 columns"
+msgstr ""
+
+#: ../modules/options/options.php:234
+msgid "3 columns"
+msgstr ""
+
+#: ../modules/options/options.php:235
+msgid "4 columns"
+msgstr ""
+
+#: ../modules/options/options.php:238
+msgid "Product Listing Style"
+msgstr ""
+
+#: ../modules/options/options.php:239
+msgid "Display style for product list"
+msgstr ""
+
+#: ../modules/options/options.php:245
+msgid "Products List Style 1"
+msgstr ""
+
+#: ../modules/options/options.php:246
+msgid "Products List Style 2"
+msgstr ""
+
+#: ../modules/options/options.php:250
+msgid "Products per page"
+msgstr ""
+
+#: ../modules/options/options.php:251
+msgid "Number of products displayed per page"
+msgstr ""
+
+#: ../modules/options/options.php:258
+msgid "Product Listing Layout"
+msgstr ""
+
+#: ../modules/options/options.php:259
+msgid "Display number of product on a row"
+msgstr ""
+
+#: ../modules/options/options.php:271
+msgid "Swatch style Attributes"
+msgstr ""
+
+#: ../modules/options/options.php:280
+msgid "Swatch Images Attributes"
+msgstr ""
+
+#: ../modules/options/options.php:289
+msgid "Attributes Filters"
+msgstr ""
+
+#: ../modules/options/options.php:299
+msgid "Price Filter"
+msgstr ""
+
+#: ../modules/options/options.php:306
+msgid "Ajax Search"
+msgstr ""
+
+#: ../modules/options/options.php:307
+msgid "Ajax search on front end"
+msgstr ""
+
+#: ../modules/options/options.php:315
+msgid "Show thumbnail"
+msgstr ""
+
+#: ../modules/options/options.php:316
+msgid "Show product thumbnail on search result."
+msgstr ""
+
+#: ../modules/options/options.php:321
+msgid "Product Image Zoom"
+msgstr ""
+
+#: ../modules/options/options.php:322
+msgid "Zoom function for product image"
+msgstr ""
+
+#: ../modules/options/options.php:329
+msgid "Enable Size Guide"
+msgstr ""
+
+#: ../modules/options/options.php:330
+msgid "Enable product size guide"
+msgstr ""
+
+#: ../modules/options/options.php:337
+msgid "Default Size Guide"
+msgstr ""
+
+#: ../modules/options/options.php:338
+msgid "Default product size guide"
+msgstr ""
+
+#: ../modules/options/options.php:345
+msgid "Social Settings"
+msgstr ""
+
+#: ../modules/options/options.php:348
+msgid "Facebook Page URL"
+msgstr ""
+
+#: ../modules/options/options.php:353
+msgid "Facebook Icon"
+msgstr ""
+
+#: ../modules/options/options.php:358
+msgid "Twitter Page URL"
+msgstr ""
+
+#: ../modules/options/options.php:363
+msgid "Twitter Icon"
+msgstr ""
+
+#: ../modules/options/options.php:368
+msgid "Google Plus URL"
+msgstr ""
+
+#: ../modules/options/options.php:373
+msgid "Google Plus Icon"
+msgstr ""
+
+#: ../modules/options/options.php:378
+msgid "Instagram URL"
+msgstr ""
+
+#: ../modules/options/options.php:383
+msgid "Instagram Icon"
+msgstr ""
+
+#: ../modules/options/options.php:388
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../modules/options/options.php:393
+msgid "Pinterest Icon"
+msgstr ""
+
+#: ../modules/options/options.php:399
+msgid "Tumblr URL"
+msgstr ""
+
+#: ../modules/options/options.php:404
+msgid "Tumblr Icon"
+msgstr ""
+
+#: ../modules/options/options.php:410
+msgid "Youtube URL"
+msgstr ""
+
+#: ../modules/options/options.php:415
+msgid "Youtube Icon"
+msgstr ""
+
+#: ../modules/options/options.php:421
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../modules/options/options.php:426
+msgid "Vimeo Icon"
+msgstr ""
+
+#: ../modules/options/options.php:432
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../modules/options/options.php:437
+msgid "Linkedin Icon"
+msgstr ""
+
+#: ../modules/options/options.php:443
+msgid "Dribbble URL"
+msgstr ""
+
+#: ../modules/options/options.php:448
+msgid "Dribbble Icon"
+msgstr ""
+
+#: ../modules/options/options.php:453
+msgid "Behance URL"
+msgstr ""
+
+#: ../modules/options/options.php:458
+msgid "Behance Icon"
+msgstr ""
+
+#: ../modules/options/options.php:463
+msgid "LastFM URL"
+msgstr ""
+
+#: ../modules/options/options.php:468
+msgid "LastFM Icon"
+msgstr ""
+
+#: ../modules/options/options.php:473
+msgid "VK URL"
+msgstr ""
+
+#: ../modules/options/options.php:478
+msgid "VK Icon"
+msgstr ""
+
+#: ../modules/options/options.php:483
+msgid "Stumbleupon URL"
+msgstr ""
+
+#: ../modules/options/options.php:488
+msgid "Stumbleupon Icon"
+msgstr ""
+
+#: ../modules/options/options.php:493
+msgid "Delicious URL"
+msgstr ""
+
+#: ../modules/options/options.php:498
+msgid "Delicious Icon"
+msgstr ""
+
+#: ../modules/options/options.php:504
+msgid "Google Analytics code"
+msgstr ""
+
+#. Name of the template
+msgid "Home Shop Layout"
+msgstr ""
+
+#. Name of the template
+msgid "Page Right Sidebar Layout"
+msgstr ""
+
+#: ../views/fix/archive.php:27 ../views/fix/category.php:27 ../views/fix/index.
+#: php:37 ../views/fix/search.php:29 ../views/fix/tag.php:27 ..
+#: /views/full/archive.php:27 ../views/full/category.php:27 ../views/full/index.
+#: php:37 ../views/full/search.php:29 ../views/full/tag.php:27 ../views/home-
+#: left/archive.php:27 ../views/home-left/category.php:27 ../views/home-
+#: left/index.php:37 ../views/home-left/search.php:29 ../views/home-left/tag.php:27
+msgid "By"
+msgstr ""
+
+#: ../views/fix/archive.php:27 ../views/fix/category.php:27 ../views/fix/index.
+#: php:37 ../views/fix/search.php:29 ../views/fix/tag.php:27 ..
+#: /views/full/archive.php:27 ../views/full/category.php:27 ../views/full/index.
+#: php:37 ../views/full/search.php:29 ../views/full/tag.php:27 ../views/home-
+#: left/archive.php:27 ../views/home-left/category.php:27 ../views/home-
+#: left/index.php:37 ../views/home-left/search.php:29 ../views/home-left/tag.php:27
+msgid "in"
+msgstr ""
+
+#: ../views/fix/archive.php:36 ../views/fix/category.php:36 ../views/fix/index.
+#: php:46 ../views/fix/search.php:38 ../views/fix/tag.php:36 ..
+#: /views/full/archive.php:36 ../views/full/category.php:36 ../views/full/index.
+#: php:46 ../views/full/search.php:38 ../views/full/tag.php:36 ../views/home-
+#: left/archive.php:36 ../views/home-left/category.php:36 ../views/home-
+#: left/index.php:46 ../views/home-left/search.php:38 ../views/home-left/tag.php:36
+msgid "Read more <span>&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: ../views/fix/archive.php:45 ../views/fix/category.php:45 ../views/fix/index.
+#: php:55 ../views/fix/search.php:47 ../views/full/archive.php:45 ..
+#: /views/full/category.php:45 ../views/full/index.php:55 ../views/full/search.
+#: php:47 ../views/home-left/archive.php:45 ../views/home-left/category.php:45 ..
+#: /views/home-left/index.php:55 ../views/home-left/search.php:47
+msgid "Previous page"
+msgstr ""
+
+#. Text in function
+#: ../views/fix/archive.php:46 ../views/fix/category.php:46 ../views/fix/index.
+#: php:56 ../views/fix/search.php:48 ../views/full/archive.php:46 ..
+#: /views/full/category.php:46 ../views/full/index.php:56 ../views/full/search.
+#: php:48 ../views/home-left/archive.php:46 ../views/home-left/category.php:46 ..
+#: /views/home-left/index.php:56 ../views/home-left/search.php:48
+msgid "Next page"
+msgstr ""
+
+#: ../views/fix/footer.php:22 ../views/full/footer.php:22 ../views/home-
+#: left/footer.php:48
+msgid "Type your keyword and hit enter button for result"
+msgstr ""
+
+#. Text in echo
+#: ../views/fix/header.php:34 ../views/fix/header.php:150 ../views/fix/header.php:
+#: 245 ../views/full/header.php:34 ../views/full/header.php:150 ..
+#: /views/full/header.php:244
+msgid "Menu"
+msgstr ""
+
+#. Text in echo
+#: ../views/fix/header.php:37 ../views/fix/header.php:37 ../views/fix/header.php:
+#: 101 ../views/fix/header.php:101 ../views/fix/header.php:157 ..
+#: /views/fix/header.php:157 ../views/fix/header.php:199 ../views/fix/header.php:
+#: 199 ../views/fix/header.php:252 ../views/fix/header.php:252 ..
+#: /views/full/header.php:37 ../views/full/header.php:37 ../views/full/header.php:
+#: 101 ../views/full/header.php:101 ../views/full/header.php:157 ..
+#: /views/full/header.php:157 ../views/full/header.php:198 ../views/full/header.
+#: php:198 ../views/full/header.php:251 ../views/full/header.php:251 ..
+#: /views/home-left/header.php:15
+msgid "Cart"
+msgstr ""
+
+#: ../views/fix/header.php:43 ../views/fix/header.php:43 ../views/fix/header.php:
+#: 105 ../views/fix/header.php:105 ../views/fix/header.php:159 ..
+#: /views/fix/header.php:159 ../views/fix/header.php:203 ../views/fix/header.php:
+#: 203 ../views/fix/header.php:254 ../views/fix/header.php:254 ..
+#: /views/full/header.php:43 ../views/full/header.php:43 ../views/full/header.php:
+#: 105 ../views/full/header.php:105 ../views/full/header.php:159 ..
+#: /views/full/header.php:159 ../views/full/header.php:202 ../views/full/header.
+#: php:202 ../views/full/header.php:253 ../views/full/header.php:253 ..
+#: /views/home-left/header.php:13 ../views/home-left/header.php:13
+msgid "Wishlist"
+msgstr ""
+
+#. Text in echo
+#: ../views/fix/header.php:45 ../views/fix/header.php:45 ../views/fix/header.php:
+#: 48 ../views/fix/header.php:107 ../views/fix/header.php:107 ../views/fix/header.
+#: php:110 ../views/fix/header.php:153 ../views/fix/header.php:153 ..
+#: /views/fix/header.php:205 ../views/fix/header.php:205 ../views/fix/header.php:
+#: 208 ../views/fix/header.php:248 ../views/fix/header.php:248 ..
+#: /views/full/header.php:45 ../views/full/header.php:45 ../views/full/header.php:
+#: 48 ../views/full/header.php:107 ../views/full/header.php:107 ..
+#: /views/full/header.php:110 ../views/full/header.php:153 ../views/full/header.
+#: php:153 ../views/full/header.php:204 ../views/full/header.php:204 ..
+#: /views/full/header.php:207 ../views/full/header.php:247 ../views/full/header.
+#: php:247 ../views/home-left/header.php:11
+msgid "My Account"
+msgstr ""
+
+#. Text in echo
+#: ../views/fix/header.php:49 ../views/fix/header.php:111 ../views/fix/header.php:
+#: 209 ../views/full/header.php:49 ../views/full/header.php:111 ..
+#: /views/full/header.php:208
+msgid "Logout"
+msgstr ""
+
+#: ../views/fix/header.php:51 ../views/fix/header.php:113 ../views/fix/header.php:
+#: 155 ../views/fix/header.php:155 ../views/fix/header.php:211 ..
+#: /views/fix/header.php:250 ../views/fix/header.php:250 ../views/full/header.php:
+#: 51 ../views/full/header.php:113 ../views/full/header.php:155 ..
+#: /views/full/header.php:155 ../views/full/header.php:210 ../views/full/header.
+#: php:249 ../views/full/header.php:249
+msgid "Register / Login"
+msgstr ""
+
+#. Text in function
+#: ../views/fix/page.php:18 ../views/full/page.php:18 ../views/home-left/page.php:
+#: 19
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: ../views/fix/search.php:15 ../views/full/search.php:15 ../views/home-
+#: left/search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../views/fix/single.php:37 ../views/full/single.php:38 ../views/home-
+#: left/single.php:37
+msgid "Related posts"
+msgstr ""
+
+#. Text in echo
+#: ../views/home-left/footer.php:34
+msgid "Mini cart"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:28
+msgid "Cart Totals"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:33 ../woocommerce/cart/mini-cart.php:72 ..
+#: /woocommerce/checkout/review-order.php:73
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:55
+msgid "Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:87 ../woocommerce/cart/cart.php:39 ..
+#: /woocommerce/checkout/review-order.php:27 ../woocommerce/checkout/review-order.
+#: php:120 ../woocommerce/myaccount/my-orders.php:33 ../woocommerce/myaccount/my-
+#: orders.php:56 ../woocommerce/order/order-details.php:33
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:99
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:102
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:36 ../woocommerce/checkout/review-order.php:26 ..
+#: /woocommerce/emails/admin-cancelled-order.php:31 ../woocommerce/emails/admin-
+#: new-order.php:36 ../woocommerce/emails/customer-completed-order.php:36 ..
+#: /woocommerce/emails/customer-invoice.php:40 ../woocommerce/emails/customer-
+#: note.php:40 ../woocommerce/emails/customer-processing-order.php:36 ..
+#: /woocommerce/order/order-details.php:32
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:38 ../woocommerce/emails/admin-cancelled-order.
+#: php:32 ../woocommerce/emails/admin-new-order.php:37 ..
+#: /woocommerce/emails/customer-completed-order.php:37 ..
+#: /woocommerce/emails/customer-invoice.php:41 ../woocommerce/emails/customer-
+#: note.php:41 ../woocommerce/emails/customer-processing-order.php:37
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:80
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:115 ../woocommerce/cart/mini-cart.php:55
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:131
+msgid "Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:131
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:131
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:137
+msgid "Update Cart"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:64
+msgid "No products in the cart."
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:77
+msgid "View Cart"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:78
+msgid "Checkout"
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:55
+msgid "Your order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:42
+msgid "Ship to a different address?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:67 ../woocommerce/single-
+#: product/tabs/additional-information.php:25
+msgid "Additional Information"
+msgstr ""
+
+#. Text in echo
+#: ../woocommerce/content-product-2.php:54 ../woocommerce/content-product.php:62
+msgid "+ Quick View"
+msgstr ""
+
+#. Text in echo
+#: ../woocommerce/content-product-2.php:56 ../woocommerce/content-product.php:64 .
+#: ./woocommerce/single-product/sale-flash.php:26
+msgid "Sold Out"
+msgstr ""
+
+#: ../woocommerce/content-product-2.php:57 ../woocommerce/content-product.php:65 .
+#: ./woocommerce/single-product/sale-flash.php:27
+msgid "New"
+msgstr ""
+
+#. Text in echo
+#: ../woocommerce/content-single-product.php:77 ../woocommerce/content-single-
+#: product.php:149 ../woocommerce/content-single-product.php:209
+msgid "Size Guide"
+msgstr ""
+
+#. Text in echo
+#: ../woocommerce/content-single-product.php:238
+msgid "Size Chart"
+msgstr ""
+
+#: ../woocommerce/emails/admin-cancelled-order.php:22
+#, php-format
+msgid "The order #%d from %s has been cancelled. The order was as follows:"
+msgstr ""
+
+#: ../woocommerce/emails/admin-cancelled-order.php:26
+#, php-format
+msgid "Order: %s"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:27
+#, php-format
+msgid "You have received an order from %s. The order is as follows:"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:31 ../woocommerce/emails/customer-
+#: completed-order.php:31 ../woocommerce/emails/customer-invoice.php:35 ..
+#: /woocommerce/emails/customer-note.php:35 ../woocommerce/emails/customer-
+#: processing-order.php:31
+#, php-format
+msgid "Order #%s"
+msgstr ""
+
+#: ../woocommerce/emails/customer-completed-order.php:27
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-invoice.php:29
+#, php-format
+msgid ""
+"An order has been created for you on %s. To pay for this order please use "
+"the following link: %s"
+msgstr ""
+
+#: ../woocommerce/emails/customer-invoice.php:29
+msgid "pay"
+msgstr ""
+
+#: ../woocommerce/emails/customer-note.php:27
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-note.php:31
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: ../woocommerce/emails/customer-processing-order.php:27
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+
+#: ../woocommerce/emails/email-addresses.php:29
+msgid "Billing address"
+msgstr ""
+
+#: ../woocommerce/emails/email-addresses.php:39
+msgid "Shipping address"
+msgstr ""
+
+#: ../woocommerce/emails/email-order-items.php:34
+msgid "Product Image"
+msgstr ""
+
+#: ../woocommerce/emails/email-order-items.php:63
+#, php-format
+msgid "Download %d"
+msgstr ""
+
+#: ../woocommerce/emails/email-order-items.php:65
+msgid "Download"
+msgstr ""
+
+#: ../woocommerce/emails/woo-preview-emails.php:87
+msgid "Preview Email Templates"
+msgstr ""
+
+#: ../woocommerce/emails/woo-preview-emails.php:89
+msgid "Click Here to preview all of your Email Templates with Orders"
+msgstr ""
+
+#: ../woocommerce/global/quantity-input.php:25
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:41
+msgid "Showing the single result"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:43
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:45
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:32
+msgid "First name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:36
+msgid "Last name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:42 ..
+#: /woocommerce/myaccount/form-login.php:92
+msgid "Email address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:47
+msgid "Password Change"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:50
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:54
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:58
+msgid "Confirm New Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:68
+msgid "Save changes"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:25 ../woocommerce/myaccount/my-
+#: address.php:28 ../woocommerce/myaccount/my-address.php:34 ..
+#: /woocommerce/order/order-details.php:204
+msgid "Billing Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:25 ../woocommerce/myaccount/my-
+#: address.php:29 ../woocommerce/order/order-details.php:223
+msgid "Shipping Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:56
+msgid "Save Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:37 ../woocommerce/myaccount/form-login.
+#: php:59
+msgid "Login"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:44
+msgid "Username or email address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:48 ../woocommerce/myaccount/form-login.
+#: php:99
+msgid "Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:57
+msgid "Remember me"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:63
+msgid "Lost your password?"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:76 ../woocommerce/myaccount/form-login.
+#: php:113
+msgid "Register"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:85
+msgid "Username"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:106
+msgid "Anti-spam"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:28
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:33
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:26
+msgid "My Addresses"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:32
+msgid "My Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:46
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:75
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:23
+msgid "Recent Orders"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:45
+msgid "Order Number"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:57
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/myaccount/my-orders.php:66
+msgid "Pay"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:73
+msgid "Cancel"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:79
+msgid "View"
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:29
+#, php-format
+msgid ""
+"Order #<mark class=\"order-number\">%s</mark> was placed on <mark class=\"order-"
+"date\">%s</mark> and is currently <mark class=\"order-status\">%s</mark>."
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:34 ../woocommerce/order/tracking.php:35
+msgid "Order Updates"
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:41 ../woocommerce/order/tracking.php:42
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:27
+msgid "Order Details"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:71
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:137 ../woocommerce/order/order-details.
+#: php:141
+#, php-format
+msgid "(Includes %s)"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:159
+msgid "Refunded:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:168
+msgid "Note:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:178
+msgid "Customer details"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:183
+msgid "Email:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:183
+msgid "Email"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:187
+msgid "Telephone:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:187
+msgid "Telephone"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:209 ../woocommerce/order/order-details.
+#: php:228
+msgid "N/A"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:23
+#, php-format
+msgid "Order #%s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:23
+msgid "ago"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:25
+msgid "and was completed"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:25
+msgid " ago"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:51
+msgid "Choose an option"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:130
+msgid "Clear selection"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:162
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../woocommerce/single-product/product-attributes.php:38
+msgid "Weight: "
+msgstr ""
+
+#: ../woocommerce/single-product/product-attributes.php:45
+msgid "Dimensions: "
+msgstr ""
+
+#: ../woocommerce/single-product/product-image.php:67
+msgid "Placeholder"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:36
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:38
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:39
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/rating.php:42
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/related.php:51
+msgid "Related products"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:38
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:39
+msgid "out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:46
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:55
+msgid "verified owner"
+msgstr ""
+
+#: ../woocommerce/single-product/sale-flash.php:30
+msgid "Sale!"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/description.php:25
+msgid "Product Description"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:52
+msgid "You may also like&hellip;"
+msgstr ""
+
+#. Name of the theme
+msgid "Look"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://magicaltheme.com/look/"
+msgstr ""
+
+#. Description of the theme
+msgid "The Look ‐ Clean, Responsive Woocommerce Theme For Online Fashion Store."
+msgstr ""
+
+#. Author of the theme
+msgid "MagicalTheme"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://magicaltheme.com"
+msgstr ""

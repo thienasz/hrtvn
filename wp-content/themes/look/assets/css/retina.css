@@ -1,0 +1,29 @@
+/*
+Theme Name: Look
+Theme URI: http://magicaltheme.com/look/
+Author: MagicalTheme
+Author URI: https://magicaltheme.com
+Description: Beautiful, fully responsive and retina Woocommerce theme for fashion online store.
+Version: 1.0.
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: look
+Tags: two-columns, left-sidebar, fixed-layout, responsive-layout, featured-images
+*/
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+	
+	.regular-logo {
+		display: none;
+	}
+	.logo a img.retina-logo {
+		display: block;
+	}
+
+}

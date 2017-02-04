@@ -1,0 +1,3 @@
+
+---Upload files---
+Please upload XML file for content import. If you want to import widgets or customizer settings only, please use Widget Importer & Exporter or the Customizer Export/Import plugin.

@@ -1,0 +1,31 @@
+<wpml-config>
+    <admin-texts>
+        <key name="look_options">
+            <key name="look_layout" />
+            <key name="header" />
+            <key name="look_logo" />
+            <key name="look_retina_logo" />
+            <key name="look_footer_text" />
+            <key name="look_top_notice" />
+            <key name="look_favicon" />
+            <key name="look_lookbook_icon" />
+            <key name="look_custom_css" />
+            <key name="asset_minify" />
+            <key name="html_minify" />
+            <key name="look_attribute_swatch" />
+            <key name="look_attribute_image_swatch" />
+            <key name="look_attribute_filters" />
+            <key name="ajax_search" />
+            <key name="show_search_thumbnail" />
+            <key name="look_fb_url" />
+            <key name="look_twtter_username" />
+            <key name="look_google_plus_url" />
+            <key name="look_instagram_url" />
+            <key name="look_pinterest_url" />
+            <key name="look_ga_code" />
+        </key>
+    </admin-texts>
+    <custom-types>
+        <custom-type translate="1">lookbook</custom-type>
+    </custom-types>
+</wpml-config>

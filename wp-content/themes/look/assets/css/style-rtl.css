@@ -1,0 +1,192 @@
+/*
+Theme Name: Look
+Theme URI: http://magicaltheme.com/look/
+Author: MagicalTheme
+Author URI: https://magicaltheme.com
+Description: Beautiful, fully responsive and retina Woocommerce theme for fashion online store.
+Version: 1.0.
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: look
+Tags: two-columns, left-sidebar, fixed-layout, responsive-layout, featured-images
+*/
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+caption,
+th,
+td {
+	text-align: right;
+}
+
+caption,
+th,
+td {
+	text-align: right;
+}
+/* ------------- HEADER ------------- */
+.header-top ul.socials {
+	float: left;
+}
+.top-menu li {
+	float: right;
+}
+#sidebar .top-menu li {
+	float: none;
+}
+.top-menu li.icon > a {
+	text-align: right;
+}
+.top-menu li.my-account a {
+	overflow: hidden;
+	vertical-align: bottom;
+}
+#searchModal .mini-search {
+	background-position: 15px center;
+}
+/* ------------- PRODUCT DETAIL ------------- */
+.product-page .content-item [class*="col-"] {
+	float: right;
+}
+a.add_to_wishlist {
+	padding-right: 20px;
+}
+a.add_to_wishlist::before {
+	right: 0;
+}
+.woocommerce div.product form.cart div.quantity, form.cart div.quantity {
+	float: right;
+	margin-left: 10px;
+	margin-right: 0;
+	padding-right: 3px;
+}
+.woocommerce div.product form.cart .button {
+	float: right;
+}
+.woocommerce-tabs h4 span {
+	float: left;
+}
+.product-page .content-item .main-image {
+	float: left;
+}
+.woocommerce .product-page .onsale {
+	left: 30px;
+	right: auto;
+}
+.side-bar-widget ul li::before {
+	right: 0;
+	left: auto;
+}
+.side-bar-widget ul li {
+	padding-left: 0;
+	padding-right: 18px;
+}
+.woocommerce ul.cart_list li a img, .woocommerce ul.product_list_widget li a img {
+	float: left;
+	margin-right: 0;
+	margin-left: 8px;
+}
+.woocommerce ul.cart_list li a, .woocommerce ul.product_list_widget li a {
+	text-align: right;
+}
+.woocommerce .widget_shopping_cart .cart_list li a.remove, .woocommerce.widget_shopping_cart .cart_list li a.remove {
+	left: 0;
+	right: auto;
+	text-align: left;
+}
+.woocommerce ul.cart_list li dl, .woocommerce ul.product_list_widget li dl {
+	float: right;
+	text-align: right;
+}
+.woocommerce ul.cart_list li > span, .woocommerce ul.product_list_widget li > span {
+	text-align: right;
+	float: right;
+}
+.woocommerce ul.cart_list li dl dd, .woocommerce ul.cart_list li dl dt,
+.woocommerce ul.product_list_widget li dl dd, .woocommerce ul.product_list_widget li dl dt {
+	float: right;
+}
+.woocommerce ul.cart_list li a img, .woocommerce ul.product_list_widget li a img {
+	float: right;
+}
+.side-bar-widget ul.product_list_widget li {
+	padding-right: 0;
+}
+.side-bar-widget ul.product_list_widget img {
+	float: right;
+	margin-left: 8px;
+	margin-right: 0;
+}
+body.fixed-layout .section-background + #content .woocommerce-breadcrumb {
+	margin-left: 0;
+	margin-right: -20px;
+}
+/* ------------- PRODUCT CATEGORY PAGE ------------- */
+.product-page .sold-out {
+	right: auto;
+	left: 30px;
+}
+.product-page .new-arrival,
+.product-page .onsale {
+	right: auto;
+	left: 30px;
+}
+.dropdown-select::after {
+	left: 8px;
+	right: auto;
+}
+/* ------------- MY ACCOUNT PAGE ------------- */
+.woocommerce form .form-row label, 
+.woocommerce-page form .form-row label {
+	text-align: right;
+}
+.woocommerce form .form-row {
+	text-align: right;
+}
+#customer_login .lost_password {
+	text-align: right;
+}
+.woocommerce-shipping-fields h3 input {
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+}
+.contact-us {
+	text-align: right;
+}
+.contact-us form input.wpcf7-text {
+	text-align: right;
+}
+/* ------------- CHECKOUT PAGE ------------- */
+.woocommerce-shipping-fields h3 label {
+	right: 0;
+	left: auto;
+}
+.woocommerce-checkout #payment ul.payment_methods li {
+	text-align: right;
+}
+.woocommerce-checkout #payment div.payment_box::before {
+	margin: -1em 2em 0 0;
+	right: 0;
+	left: auto;
+}
+.woocommerce-checkout #payment .payment_method_paypal .about_paypal {
+	line-height: 29px;
+}
+/* ------------- RESPONSIVE ------------- */
+@media only screen and (max-width: 800px) {
+	.header-top ul.socials {
+		float: none;
+	}
+	.mobile-top-menu li {
+		float: none;
+	}
+	#wrapper {
+		overflow-x: hidden;
+	}
+}
+
+@media only screen and (max-width: 736px) {
+	
+}
